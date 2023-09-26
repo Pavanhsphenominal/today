@@ -1,0 +1,2 @@
+# today
+externals day
